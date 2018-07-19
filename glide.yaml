@@ -1,0 +1,4 @@
+package: github.com/ldxforstudy/golang-web
+import:
+- package: github.com/go-chi/chi
+  version: v3.3.2
